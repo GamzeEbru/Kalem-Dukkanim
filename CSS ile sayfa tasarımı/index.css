@@ -1,0 +1,24 @@
+nav,article{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: red;
+}
+
+h2{
+    color: slateblue;
+   
+}
+h3{
+    color: rgb(155, 108, 21);
+}
+
+ul,p{
+    color: black;
+}
+ li{
+     list-style-position: inside;
+ }
+

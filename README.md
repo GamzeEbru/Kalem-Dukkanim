@@ -1,4 +1,4 @@
-# Müzik Dükkanım Sitesi
+# Kalem Dükkanım Sitesi
 HTML ve CSS öğrenmeye çalışırken yaptığım örneklerden bir tanesi olan Müzik dükkanım sitesinin örnek sayfaları aşağıdaki gibidir. Ek olarak aynı sayfayı Bootstrap eğitimim sürecinde tekrar tasarladım. İki çalışma arasındaki farkları fotoğraflarla göstermeye çalıştım.
 
     Anasayfa görüntüsü:
